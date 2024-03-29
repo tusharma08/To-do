@@ -23,7 +23,7 @@ These instructions will get you a copy of the project up and running on your loc
 1. Clone the repository:
 git clone https://github.com/tusharma08/To-do.git
 2. Navigate to the project directory:
-cd react-todo-app
+cd To-do
 3. Install dependencies:
 npm install
 4. Start the development server:
